@@ -1,0 +1,6 @@
+[submodule "myleagues-app"]
+	path = myleagues-app
+	url = git@github.com:bas-vonk/myleagues-app.git
+[submodule "myleagues-api"]
+	path = myleagues-api
+	url = git@github.com:bas-vonk/myleagues-api.git
